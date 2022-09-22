@@ -169,7 +169,7 @@ h6 {
     display: block;
 }
 
-@media screen and (min-width: 42em){
+ @media screen and (min-width: 62em){
     .top-content{
         background: #521a66;
     }
@@ -214,19 +214,17 @@ h6 {
     .main-content-article .button{
         float: right;
     }
-
 }
-
-@media screen and (min-width: 62.5em){
+@media screen and (min-width: 75em){
     .top-content{
         background: url(../images/bg_topo_1198x670.jpg) #521a66;
         height: 20em;
-        padding-top: 17em; /* altura total de 37em */
+        padding-top: 17em;
         background-position: center bottom;
     }
-}
+} 
 
-@media screen and (min-width: 74em){
+@media screen and (min-width: 85em){
     .top-content{
         background-image: url(../images/bg_topo_1600x1374.jpg);
         padding: 19em 18em 10em;
@@ -251,4 +249,4 @@ h6 {
     .main-content-article .button{
         float: none;
     }
-}
+} 
