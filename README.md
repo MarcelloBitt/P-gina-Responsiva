@@ -4,4 +4,7 @@ Primeiros exercicios entendendo como projetar uma página "mobile-first". Por se
 
 O links do rodapé porém levam aos meu canais das redes sociais. Os maiores desafios foram trabalhar com @media de acordo com a largura da tela do dispositivo. Verificando como mobile, ainda posso melhorar a visualização nesse tamanho de tela.
 
-A página está hospedada no github pages e pode ser visita por <a href="https://marcellobitt.github.io/Pagina-Responsiva/">aqui</a>
+A página está hospedada no github pages e pode ser visitada por <a href="https://marcellobitt.github.io/Pagina-Responsiva/">aqui</a>
+
+
+A dimensão correta para cada tipo de tela ainda está em desenvolvimento. Estou tentando fazer com em mas em px estou tendo melhores resultados
