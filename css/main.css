@@ -169,7 +169,7 @@ h6 {
     display: block;
 }
 
- @media screen and (min-width: 67.56em){
+ @media screen and (min-width: 67.5em){
     .top-content{
         background: #521a66;
     }
